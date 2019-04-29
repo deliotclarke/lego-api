@@ -1,9 +1,37 @@
 {
-  "legos": {
-    "id": 1,
-    "creator": "Per Sun",
-    "color": "Black",
-    "shape": "Animal",
-    "creation": "Black Cow"
-  }
+  "legos": [
+    {
+      "id": 1,
+      "creator": "Per Sun",
+      "color": "Black",
+      "shape": "Animal",
+      "creation": "Black Cow"
+    }
+  ],
+  "colors": [
+    {
+      "colorId": 1,
+      "color": "red"
+    },
+    {
+      "colorId": 2,
+      "color": "Green"
+    },
+    {
+      "colorId": 3,
+      "color": "Yellow"
+    },
+    {
+      "colorId": 4,
+      "color": "Blue"
+    },
+    {
+      "colorId": 5,
+      "color": "Orange"
+    },
+    {
+      "colorId": 6,
+      "color": "Black"
+    }
+  ]
 }
